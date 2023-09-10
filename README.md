@@ -1,2 +1,2 @@
-# primeiro-rep-am
+# Meu primeiro repositório GitHub - Javascript
 formação javascript
