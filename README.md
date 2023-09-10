@@ -1,2 +1,4 @@
 # Meu primeiro repositório GitHub - Javascript
-formação javascript
+## Formação javascript
+
+faça sua inscrição agora mesmo!!! :) e seja um mestre em js
